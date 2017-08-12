@@ -1,6 +1,6 @@
 {
   "name": "elegant-pair",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An elegant pairing function which uniquely encodes two natural numbers into a single natural number",
   "main": "index.js",
   "scripts": {
