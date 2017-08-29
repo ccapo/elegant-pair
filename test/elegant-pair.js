@@ -1,7 +1,5 @@
 'use strict';
 
-'use strict';
-
 const should = require('should');
 
 describe('Elegant Pair Tests', function() {
