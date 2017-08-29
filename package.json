@@ -18,7 +18,8 @@
   },
   "keywords": [
     "pairing",
-    "integers"
+    "integers",
+    "hash"
   ],
   "author": "Chris Capobianco",
   "license": "MIT",
